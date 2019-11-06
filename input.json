@@ -1,0 +1,189 @@
+{
+  "data": [
+    {
+      "overlayColor": "Teal",
+      "counties": [
+        {
+          "countyName": "Archer",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Baylor",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Brown",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Callahan",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Clay",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Coleman",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Comanche",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Cottle",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Ellis",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Eastland",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Fisher",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Foard",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Hardeman",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Haskell",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Jack",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Jones",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Kent",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Knox",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Mitchell",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Montague",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Nolan",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Runnels",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Scurry",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Shackelford",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Stephens",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Stonewall",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Taylor",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Throckmorton",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Wilbarger",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Young",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Wichita",
+          "stateName": "TX"
+        }
+      ],
+      "pins": [
+        {
+          "name": "County Clerk",
+          "address1": "112 E. Walnut",
+          "city": "Archer City",
+          "state": "TX",
+          "zipcode": "76351"
+        },
+        {
+          "name": "Clerk",
+          "address1": "109 South Jackson",
+          "city": "Waxahachie",
+          "state": "TX",
+          "zipcode": "75165'"
+        }
+      ]
+    },
+    {
+      "overlayColor": "Blue",
+      "counties": [
+        {
+          "countyName": "Tyler",
+          "stateName": "TX"
+        },
+        {
+          "countyName": "Hardin",
+          "stateName": "TX"
+        }
+      ],
+      "pins": [
+        {
+          "name": "Hardin County Courthouse",
+          "address1": "300 West Monroe Street",
+          "city": "Kountze",
+          "state": "TX",
+          "zipcode": "77625"
+        }
+      ]
+    },
+    {
+      "overlayColor": "Green",
+      "pins": [],
+      "counties": [
+        {
+          "countyName": "Natrona",
+          "stateName": "WY"
+        },
+        {
+          "countyName": "Converse",
+          "stateName": "WY"
+        },
+        {
+          "countyName": "Uinta",
+          "stateName": "WY"
+        }
+      ]
+    }
+  ]
+}
